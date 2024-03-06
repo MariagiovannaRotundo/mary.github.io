@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Java</mark>, <mark>Problem solving</mark>, <mark>Organization</mark> and <mark>Cuddle cats</mark>
 
 content:
-  - title: Projects # Title for the section
+  - title: Projects -- Not Updated from here; data of the template CV # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
