@@ -47,29 +47,29 @@ orcid_username: 0009−0001−1671−7407
 # about_title: About Me
 about_profile_image: images/profile_photo.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi! my name is Mariagiovanna Rotundo an I'm a Ph.D. student in computer science at the University of Pisa. I'm currently working on topic of succinct data structures and we've published my first scientific paper. In my spare time, I'm an active member of the two local communities GDG and WTM Pisa, which organize free talks about different topics and technologies in the field of computer science.
+  Hi! my name is Mariagiovanna Rotundo and I'm a Ph.D. student in computer science at the University of Pisa. I'm currently working on topic of succinct data structures and we've published my first scientific paper. In my spare time, I'm an active member of the two local communities GDG and WTM Pisa, which organize free talks about different topics and technologies in the field of computer science.
   
-  I am most skilled in: <mark>Java</mark> and <mark>Cuddle cats</mark>
+  I am most skilled in: <mark>Java</mark>, <mark>Problem solving</mark>, <mark>Organization</mark> and <mark>Cuddle cats</mark>
 
 content:
-  # - title: Projects # Title for the section
-  #   layout: list # Type of content section (list/text)
-  #   content:
-  #     - layout: top-middle
-  #       title: Super awesome project
-  #       link: github.com/MariagiovannaRotundo
-  #       # link_text: Project Website
-  #       additional_links:
-  #         - title:  MariagiovannaRotundo/resume
-  #           icon: fab fa-github
-  #           url: github.com/MariagiovannaRotundo/resume
-  #         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-  #         #   icon: fab fa-github
-  #         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-  #       quote: >
-  #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  #       description: | # this will include new lines to allow paragraphs
-  #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Super awesome project
+        link: github.com/MariagiovannaRotundo
+        # link_text: Project Website
+        additional_links:
+          - title:  MariagiovannaRotundo/resume
+            icon: fab fa-github
+            url: github.com/MariagiovannaRotundo/resume
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -99,17 +99,17 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  # - title: A Little More About Me
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs
+  #     Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+  #     - Rock climbing
+  #     - Gaming
+  #     - Knitting
+  #     - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+  #     Look at this cool image  
+  #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
