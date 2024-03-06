@@ -1,6 +1,6 @@
 # Site
 repository: MariagiovannaRotundo/resume
-favicon: images/favicon.ico
+favicon: images/paw-solid.svg
 
 # Content configuration version
 version: 2
@@ -49,8 +49,9 @@ about_profile_image: images/profile_photo.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi! my name is Mariagiovanna Rotundo and I'm a Ph.D. student in computer science at the University of Pisa. I'm currently working on topic of succinct data structures and we've published my first scientific paper. In my spare time, I'm an active member of the two local communities GDG and WTM Pisa, which organize free talks about different topics and technologies in the field of computer science.
   
-  I am most skilled in: <mark>Java</mark>, <mark>Problem solving</mark>, <mark>Organization</mark> and <mark>Cuddle cats</mark>
+  I am most skilled in: <mark>Java</mark>, <mark>Problem solving</mark>, and <mark>Organization</mark> 
 
+#and <mark>Cuddle cats</mark>
 content:
   - title: Projects -- Not Updated from here; data of the template CV # Title for the section
     layout: list # Type of content section (list/text)
