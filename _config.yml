@@ -91,18 +91,20 @@ content:
           I've learn the basis about different topics in IT. I've graduated with the grade of 110/110 cum laude with a thesis where we've proposed a python package for the batch simulation of chemical reaction networks. My supervisors were Paolo Milazzo and Lucia Nasti.
 
   - title: Papers # Title for the section
-    layout: text # Type of content section (list/text)
+    layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: Master's degree in Computer Science
-        caption: 2020 - 2022
-        sub_title: University of Pisa
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          I've attended the curriculum "ICT Solutions Architect" where, among all the topics, I've studied how to design heterogeneous and distributed software systems and how to well parallelize software.
-          I graduated with the grade of 110/110 cum laude with a thesis where we've proposed a solution for compressed string dictionaries via Rear coding and succinct Patricia Tries. My supervisors were Paolo Ferragina and Giorgio Vinciguerra.
-      
+      - layout: text # Type of content section (list/text)
+        content:
+          - layout: left
+            title: Master's degree in Computer Science
+            caption: 2020 - 2022
+            sub_title: University of Pisa
+            quote: >
+              Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+            description: | # this will include new lines to allow paragraphs
+              I've attended the curriculum "ICT Solutions Architect" where, among all the topics, I've studied how to design heterogeneous and distributed software systems and how to well parallelize software.
+              I graduated with the grade of 110/110 cum laude with a thesis where we've proposed a solution for compressed string dictionaries via Rear coding and succinct Patricia Tries. My supervisors were Paolo Ferragina and Giorgio Vinciguerra.
+        
       
 
 
