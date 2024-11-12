@@ -120,20 +120,18 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        # title: Spire
+        title: Spire
         caption: September 2023
-        sub_title: Spire
+        # sub_title: Spire
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           **Engineering a textbook approach to index massive string dictionaries**   
           Talk held at the $30^{th}$ International Symposium String Processing and Information Retrieval. Talk's topic: description of the scientific results published in SPIRE 2023, concerning an approach to index massive string dictionaries.
-
-
       - layout: left
-        # title: Bachelor's degree in Computer Science
+        title: GDG Pisa
         caption: November 2022
-        sub_title: GDG Pisa
+        # sub_title: GDG Pisa
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
