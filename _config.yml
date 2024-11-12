@@ -66,7 +66,7 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Currently, I'm a Ph.D. student :D
+            I'm a Ph.D. student :D
 
       - layout: left
         title: Research Fellow
@@ -122,12 +122,12 @@ content:
       - layout: left
         title: Spire
         caption: September 2023
-        # sub_title: Spire
+        sub_title: conference
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           **Engineering a textbook approach to index massive string dictionaries**   
-          Talk held at the $30^{th}$ International Symposium String Processing and Information Retrieval. Talk's topic: description of the scientific results published in SPIRE 2023, concerning an approach to index massive string dictionaries.
+          Talk held at the 30th International Symposium String Processing and Information Retrieval. Talk's topic: description of the scientific results published in SPIRE 2023, concerning an approach to index massive string dictionaries.
       - layout: left
         title: GDG Pisa
         caption: November 2022
