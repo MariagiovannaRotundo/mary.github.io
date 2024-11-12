@@ -107,11 +107,11 @@ content:
   - title: Publications # Title for the section
     layout: text # Type of content section (list/text)
     content: | 
-      - **Two-level massive string dictionaries**, P. Ferragina, M. Rotundo, G. Vinciguerra
+      - **Two-level massive string dictionaries**, P. Ferragina, M. Rotundo, G. Vinciguerra  
       Information Systems, 2024. DOI: [10.1016/j.is.2024.102490](https://doi.org/10.1016/j.is.2024.102490)
 
       
-      - **Engineering a textbook approach to index massive string dictionaries**, P. Ferragina, M. Rotundo, G. Vinciguerra
+      - **Engineering a textbook approach to index massive string dictionaries**, P. Ferragina, M. Rotundo, G. Vinciguerra  
       30th International Symposium String Processing and Information Retrieval (SPIRE), 2023. DOI: [10.1007/978-3-031-43980-3\_16](https://doi.org/10.1007/978-3-031-43980-3_16)
   
 
