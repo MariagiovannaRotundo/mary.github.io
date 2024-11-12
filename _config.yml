@@ -77,8 +77,13 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Working on the topic "Compressed data structures to index datasets of keys with variable length". 
+            Working on the topic "Compressed data structures to index datasets of keys with variable length".
+            We study the problem of engineering space-time efficient indexes that support membership and lexicographic queries on very large static dictionaries of strings.
+            The solution we propose is based on a very simple approach that consists of decoupling string storage and string indexing.  
             Supervisors: Paolo Ferragina, Giorgio Vinciguerra. 
+
+
+
 
 
   - title: Education # Title for the section
@@ -120,7 +125,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Spire
+        title: SPIRE
         caption: September 2023
         # sub_title: conference
         # quote: >
