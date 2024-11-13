@@ -145,23 +145,23 @@ content:
   - title: Publications # Title for the section
     layout: text # Type of content section (list/text)
     content: | 
-      - **Two-level indexing**, [<i class="fab fa-github"></i>](https://github.com/MariagiovannaRotundo/Two-level-indexing)  
-      Master's degree project extended to implement the data structures and algorithms published in SPIRE 2023. Used programming language: <mark>C++</mark>  
+      - **Two-level indexing** [<i class="fab fa-github"></i>](https://github.com/MariagiovannaRotundo/Two-level-indexing)  
+      Master's degree project extended to implement the data structures and algorithms published in SPIRE 2023. <mark>C++</mark>  
 
       
-      - **Parallel BFS**, [<i class="fab fa-github"></i>](https://github.com/MariagiovannaRotundo/SPM)  
+      - **Parallel BFS** [<i class="fab fa-github"></i>](https://github.com/MariagiovannaRotundo/SPM)  
       University project for Parallel and Distributed System course.
-      Implementation and performance comparison of a parallel Breadth-first search (BFS) using the standard thread library and FastFlow. Used programming language: <mark>C++</mark>   
+      Implementation and performance comparison of a parallel Breadth-first search (BFS) using the standard thread library and FastFlow. <mark>C++</mark>   
 
 
-      - **SBML-batch**, [<i class="fab fa-github"></i>](https://github.com/MariagiovannaRotundo/SBML-batch)  
+      - **SBML-batch** [<i class="fab fa-github"></i>](https://github.com/MariagiovannaRotundo/SBML-batch)  
       Bachelor's project to analyze collections of chemical reaction networks. 
       Our goal was to (i) provide an implementation of 2 Theorems that under some conditions can give us information on how the networks behave, 
-      (ii) create a package to simulate in batch a lot of chemical reaction networks, (iii) provide an implementation to automathically build the Petri Nets of the chemical reaction networks. Used programming language: <mark>Python</mark>  
+      (ii) create a package to simulate in batch a lot of chemical reaction networks, (iii) provide an implementation to automathically build the Petri Nets of the chemical reaction networks. <mark>Python</mark>  
 
 
-      - **WordQuizzle**, [<i class="fab fa-github"></i>](https://github.com/MariagiovannaRotundo/WordQuizzle)  
-      University project for computer networks course. Implementation of a challenge system between registered users and management of networks of users. Used programming language: <mark>Java</mark>  
+      - **WordQuizzle** [<i class="fab fa-github"></i>](https://github.com/MariagiovannaRotundo/WordQuizzle)  
+      University project for computer networks course. Implementation of a challenge system between registered users and management of networks of users. <mark>Java</mark>  
 
 
 
