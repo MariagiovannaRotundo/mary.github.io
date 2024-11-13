@@ -142,61 +142,45 @@ content:
           **How do I hack your contactless**  
           Topic: how the protocol used by the contactless payments cards works and discussion of [Card Brand Mixup Attack](https://www.usenix.org/system/files/sec21-basin.pdf)
 
+  - title: Publications # Title for the section
+    layout: text # Type of content section (list/text)
+    content: | 
+      - **Two-level indexing**, [Go to code](https://github.com/MariagiovannaRotundo/Two-level-indexing)
+      Master's degree project extended to implement the data structures and algorithms published in SPIRE 2023. Used programming language: <mark>C++</mark>  
+
+      
+      - **Parallel BFS**, [Go to code](https://github.com/MariagiovannaRotundo/SPM)
+      University project for Parallel and Distributed System course.
+      Implementation and performance comparison of a parallel Breadth-first search (BFS) using the standard thread library and FastFlow. Used programming language: <mark>C++</mark>   
 
 
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Two-level indexing
-        # link: link title
-        # link_text: Project Website
-        additional_links:
-          - title:  MariagiovannaRotundo/Two-level-indexing
-            icon: fab fa-github
-            url: github.com/MariagiovannaRotundo/Two-level-indexing
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        description: | # this will include new lines to allow paragraphs
-          Master's degree project extended to implement the data structures and algorithms published in SPIRE 2023. Used programming language: C++
+      - **SBML-batch**, [Go to code](https://github.com/MariagiovannaRotundo/SBML-batch)
+      Bachelor's project to analyze collections of chemical reaction networks. 
+      Our goal was to (i) provide an implementation of 2 Theorems that under some conditions can give us information on how the networks behave, 
+      (ii) create a package to simulate in batch a lot of chemical reaction networks, (iii) provide an implementation to automathically build the Petri Nets of the chemical reaction networks. Used programming language: <mark>Python</mark>  
 
-      - layout: top-middle
-        title: Parallel BFS
-        # link: link title
-        # link_text: Project Website
-        additional_links:
-          - title:  MariagiovannaRotundo/SPM
-            icon: fab fa-github
-            url: github.com/MariagiovannaRotundo/SPM
-        description: | # this will include new lines to allow paragraphs
-          University project for Parallel and Distributed System course. 
-          Implementation and performance comparison of a parallel Breadth-first search (BFS) using the standard thread library and FastFlow. Used programming language: C++
 
-      - layout: top-middle
-        title: SBML-batch
-        # link: link title
-        # link_text: Project Website
-        additional_links:
-          - title:  MariagiovannaRotundo/SBML-batch
-            icon: fab fa-github
-            url: github.com/MariagiovannaRotundo/SBML-batch
-        description: | # this will include new lines to allow paragraphs
-          Bachelor's project to analyze collections of chemical reaction networks. 
-          Our goal was to (i) provide an implementation of 2 Theorems that under some conditions can give us information on how the networks behave, 
-          (ii) create a package to simulate in batch a lot of chemical reaction networks, (iii) provide an implementation to automathically build the Petri Nets of the chemical reaction networks. Used programming language: Python
+      - **WordQuizzle**, [Go to code](https://github.com/MariagiovannaRotundo/WordQuizzle)
+      University project for computer networks course. Implementation of a challenge system between registered users and management of networks of users. Used programming language: <mark>Java</mark>  
 
-      - layout: top-middle
-        title: WordQuizzle
-        # link: link title
-        # link_text: Project Website
-        additional_links:
-          - title:  MariagiovannaRotundo/WordQuizzle
-            icon: fab fa-github
-            url: github.com/MariagiovannaRotundo/WordQuizzle
-        description: | # this will include new lines to allow paragraphs
-          University project for computer networks course. Implementation of a challenge system between registered users and management of networks of users. Used programming language: Java
 
+
+  # - title: Projects # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: top-middle
+  #       title: Two-level indexing
+  #       # link: link title
+  #       # link_text: Project Website
+  #       additional_links:
+  #         - title:  MariagiovannaRotundo/Two-level-indexing
+  #           icon: fab fa-github
+  #           url: github.com/MariagiovannaRotundo/Two-level-indexing
+  #         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #         #   icon: fab fa-github
+  #         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+  #       description: | # this will include new lines to allow paragraphs
+  #         Master's degree project extended to implement the data structures and algorithms published in SPIRE 2023. Used programming language: C++
 
 
 
