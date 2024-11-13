@@ -61,7 +61,7 @@ content:
         title: Ph.D. student
         # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: University of pisa
+        sub_title: University of Pisa
         caption: Nov 2023 - Present
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
@@ -72,15 +72,14 @@ content:
         title: Research Fellow
         # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: University of pisa
+        sub_title: University of Pisa
         caption: Jan 2023 - Nov 2023
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             Working on the topic "Compressed data structures to index datasets of keys with variable length".
             We study the problem of engineering space-time efficient indexes that support membership and lexicographic queries on very large static dictionaries of strings.
-            The solution we propose is based on a very simple approach that consists of decoupling string storage and string indexing.  
-            Supervisors: Paolo Ferragina, Giorgio Vinciguerra. 
+            The solution we propose is based on a very simple approach that consists of decoupling string storage and string indexing. Supervisors: Paolo Ferragina, Giorgio Vinciguerra. 
 
 
 
@@ -145,25 +144,37 @@ content:
 
 
 
-  # - title: Projects # Title for the section
-  #   layout: list # Type of content section (list/text)
-  #   content:
-  #     - layout: top-middle
-  #       title: Super awesome project
-  #       link: github.com/MariagiovannaRotundo
-  #       # link_text: Project Website
-  #       additional_links:
-  #         - title:  MariagiovannaRotundo/resume
-  #           icon: fab fa-github
-  #           url: github.com/MariagiovannaRotundo/resume
-  #         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-  #         #   icon: fab fa-github
-  #         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-  #       quote: >
-  #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  #       description: | # this will include new lines to allow paragraphs
-  #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Two-level indexing
+        link: link title
+        # link_text: Project Website
+        additional_links:
+          - title:  MariagiovannaRotundo/Two-level-indexing
+            icon: fab fa-github
+            url: github.com/MariagiovannaRotundo/Two-level-indexing
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        description: | # this will include new lines to allow paragraphs
+          Master's degree project extended to implement the data structures and algorithms published in SPIRE 2023. Used programming language: C++
 
+      - layout: top-middle
+        title: Parallel BFS
+        link: link title
+        # link_text: Project Website
+        additional_links:
+          - title:  MariagiovannaRotundo/SPM
+            icon: fab fa-github
+            url: github.com/MariagiovannaRotundo/SPM
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        description: | # this will include new lines to allow paragraphs
+          University project for Parallel and Distributed System course. 
+          Implementation and performance comparison of a parallel Breadth-first search (BFS) using the standard thread library and FastFlow. Used programming language: C++
 
   # - title: A Little More About Me
   #   layout: text
