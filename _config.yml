@@ -149,7 +149,7 @@ content:
     content:
       - layout: top-middle
         title: Two-level indexing
-        link: link title
+        # link: link title
         # link_text: Project Website
         additional_links:
           - title:  MariagiovannaRotundo/Two-level-indexing
@@ -163,18 +163,42 @@ content:
 
       - layout: top-middle
         title: Parallel BFS
-        link: link title
+        # link: link title
         # link_text: Project Website
         additional_links:
           - title:  MariagiovannaRotundo/SPM
             icon: fab fa-github
             url: github.com/MariagiovannaRotundo/SPM
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
           University project for Parallel and Distributed System course. 
           Implementation and performance comparison of a parallel Breadth-first search (BFS) using the standard thread library and FastFlow. Used programming language: C++
+
+      - layout: top-middle
+        title: SBML-batch
+        # link: link title
+        # link_text: Project Website
+        additional_links:
+          - title:  MariagiovannaRotundo/SBML-batch
+            icon: fab fa-github
+            url: github.com/MariagiovannaRotundo/SBML-batch
+        description: | # this will include new lines to allow paragraphs
+          Bachelor's project to analyze collections of chemical reaction networks. 
+          Our goal was to (i) provide an implementation of 2 Theorems that under some conditions can give us information on how the networks behave, 
+          (ii) create a package to simulate in batch a lot of chemical reaction networks, (iii) provide an implementation to automathically build the Petri Nets of the chemical reaction networks. Used programming language: Python
+
+      - layout: top-middle
+        title: WordQuizzle
+        # link: link title
+        # link_text: Project Website
+        additional_links:
+          - title:  MariagiovannaRotundo/WordQuizzle
+            icon: fab fa-github
+            url: github.com/MariagiovannaRotundo/WordQuizzle
+        description: | # this will include new lines to allow paragraphs
+          University project for computer networks course. Implementation of a challenge system between registered users and management of networks of users. Used programming language: Java
+
+
+
 
   # - title: A Little More About Me
   #   layout: text
