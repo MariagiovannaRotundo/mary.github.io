@@ -54,7 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
 #and <mark>Cuddle cats</mark>
 content:
   
-  - title: <i class="fa-solid fa-suitcase"></i> Professional Experience # Title for the section
+  - title: Professional Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -169,7 +169,7 @@ content:
     content:
       - layout: left
         title: Mentee
-        caption: Sep. 2022 - Present
+        caption: Sep 2022 - Present
         sub_title: Lead The Future
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
@@ -177,6 +177,24 @@ content:
           Among the few Italian students I've been selected to be mentees for LeadTheFuture, a leading mentorship non-profit organization for students in STEM, with an acceptance rate below 20%.
 
 
+  - title: Volunteering # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: GDG Pisa
+        caption: Jan 2019 - Present
+        description: | # this will include new lines to allow paragraphs
+          **Lead at GDG Pisa**  
+          Organized more than 20 events (technical talks, conferences), with the help of the other managers. 
+          Among them, organized the [Devfest Pisa](https://devfest.gdgpisa.it/) with more than 400 people and international speakers.
+      
+      - layout: left
+        title: WTM Pisa
+        caption: Mar 2019 - Present
+        description: | # this will include new lines to allow paragraphs
+          **WTM Ambassador and manager at WTM Pisa**  
+          Organized, with the help of the other managers, more than 10 events in the scope of WTM (Women Techmakers), a program to sustain women in tech. 
+          Organizer and social media manager of [International Women's Day Italia 2021](https://gdg.community.dev/events/details/google-gdg-pisa-presents-iwd-2021-international-womens-day/). WTM Ambassador since May 2022.
 
       
 
