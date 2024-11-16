@@ -200,7 +200,7 @@ content:
   - title: Languages # Title for the section
     layout: text # Type of content section (list/text)
     content: | 
-      - Italian: <i class="fa-solid fa-circle"></i> <i class="fa-solid fa-circle"></i> <i class="fa-solid fa-circle"></i> <i class="fa-solid fa-circle"></i> <i class="fa-solid fa-circle"></i> <i class="fa-solid fa-circle"></i>    
+      - Italian: :o: :o: :o: :o: :o: :o:    
       - English: <i class="fa-solid fa-circle"></i> <i class="fa-solid fa-circle"></i> <i class="fa-solid fa-circle"></i> <i class="fa-solid fa-circle"></i> <i class="fa-regular fa-circle"></i> <i class="fa-regular fa-circle"></i>
       
 
