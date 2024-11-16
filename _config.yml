@@ -196,6 +196,12 @@ content:
           Organized, with the help of the other managers, more than 10 events in the scope of WTM (Women Techmakers), a program to sustain women in tech. 
           Organizer and social media manager of [International Women's Day Italia 2021](https://gdg.community.dev/events/details/google-gdg-pisa-presents-iwd-2021-international-womens-day/). WTM Ambassador since May 2022.
 
+
+  - title: Languages # Title for the section
+    layout: text # Type of content section (list/text)
+    content: | 
+      - Italian: <i class="fa-solid fa-circle"></i> <i class="fa-solid fa-circle"></i> <i class="fa-solid fa-circle"></i> <i class="fa-solid fa-circle"></i> <i class="fa-solid fa-circle"></i> <i class="fa-solid fa-circle"></i>    
+      - English: <i class="fa-solid fa-circle"></i> <i class="fa-solid fa-circle"></i> <i class="fa-solid fa-circle"></i> <i class="fa-solid fa-circle"></i> <i class="fa-regular fa-circle"></i> <i class="fa-regular fa-circle"></i>
       
 
   # - title: Projects # Title for the section
