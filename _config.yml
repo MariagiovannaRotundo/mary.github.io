@@ -200,10 +200,9 @@ content:
   - title: Languages # Title for the section
     layout: text # Type of content section (list/text)
     content: | 
-      - Italian <i class="fas fa-circle"></i> <i class="fab fa-github"></i>
-      - English: :o: :o: :o: :o: :radio_button: :radio_button:
-        <i class="fa-solid fa-circle"></i> <i class="fa-solid fa-circle"></i> <i class="fa-solid fa-circle"></i> <i class="fa-solid fa-circle"></i> <i class="fa-regular fa-circle"></i> <i class="fa-regular fa-circle"></i>
-      
+      - Italian <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i>   
+      - English: <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="far fa-circle"></i> <i class="far fa-circle"></i>
+        
 
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
